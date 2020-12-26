@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "testing-host-mp": {
+      "hosting": {
+        "Firechat": [
+          "testing-host-mp"
+        ]
+      }
+    }
+  }
+}
